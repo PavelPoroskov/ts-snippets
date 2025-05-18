@@ -1,0 +1,15 @@
+1) off-methods using decorators
+2) subset of fields
+    fields: [{ isAvailable, options: [], name }] -> { isField01Available, field01Options, isField02Available, field02Options, .. }
+
+requirements
+)every snippet in separate folder
+)tests for snippets
+
+steps 
+)init typescript
+)snippet one with tests
+)snippet two with tests
+
+
+
